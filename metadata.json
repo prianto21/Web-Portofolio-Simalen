@@ -1,0 +1,6 @@
+{
+  "name": "SIMALEN – Andaliman Bubuk Kering",
+  "description": "Rempah asli dari Tanah Batak. SIMALEN menghadirkan Andaliman Bubuk Kering 100% murni dari Dolok Sanggul, Humbang Hasundutan, Sumatera Utara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
